@@ -6,6 +6,7 @@ Fitur yang terdapat pada Aplikasi Indihome Universal Utility.exe
 - Auto Download Config
 - Decoder Utility
 - Encoder Utility
+- Support windows x64 only
 
 ~ (v1.0.0.1) Kamis 29 Agustus 2024 - First Release Indihome Universal Utility
 
