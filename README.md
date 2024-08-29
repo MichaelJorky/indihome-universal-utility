@@ -25,7 +25,7 @@ https://pypi.org/project/pycryptodome/
 
 4. Download "Indihome-Universal-Utility-v1.x.x.x" lalu silahkan ekstrak dengan WinRAR, maka akan ada folder baru dengan nama "Indihome Universal Utility" kemudian silahkan buka foldernya dan jalankan aplikasi Indihome Universal Utility.exe
 
-5. Perhatikan status koneksi dibagian bawah kiri apakah offline atau online dan pastikan type modem/routernya terdeteksi
+5. Perhatikan status koneksi dibagian bawah kiri apakah offline atau online dan pastikan type modem/routernya terdeteksi.
 
 6. Pada input data silahkan isi username: user dan password: user/user1234 atau tinggal disesuaikan jika sebelumnya pernah diganti lalu klik "start" (tidak perlu mengisikan mac address dan serial number), lalu klik "stop" untuk membersikan koneksi API.
 
