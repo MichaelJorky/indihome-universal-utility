@@ -26,7 +26,7 @@ dan
     Dokumentasi lengkap Pycryptodome:
 https://pypi.org/project/pycryptodome/
 
-4. Download "Indihome-Universal-Utility-v1.x.x.x" lalu silahkan ekstrak dengan WinRAR, maka akan ada folder baru dengan nama "Indihome Universal Utility" kemudian silahkan buka foldernya dan jalankan aplikasi Indihome Universal Utility.exe
+4. Download "Indihome Universal Utility" via https://codeload.github.com/MichaelJorky/indihome-universal-utility/zip/refs/heads/main lalu silahkan ekstrak dengan WinRAR, maka akan ada folder baru dengan nama "indihome-universal-utility-main" kemudian silahkan buka foldernya dan jalankan aplikasi Indihome Universal Utility.exe
 
 5. Perhatikan status koneksi dibagian bawah kiri apakah offline atau online dan pastikan type modem/routernya terdeteksi.
 
