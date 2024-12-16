@@ -12,6 +12,7 @@ Fitur yang terdapat pada Aplikasi Indihome Universal Utility.exe
 - Support windows x64 only
 
 ~ (v1.0.0.1) Kamis 29 Agustus 2024 - First Release Indihome Universal Utility
+~ (v1.0.0.2) Senin 16 Desember 2024 - Perbaikan Bug API Windows
 
 #
 <b>Tutorial Penggunaan:</b>
