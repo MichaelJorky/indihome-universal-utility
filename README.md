@@ -11,10 +11,6 @@ Fitur yang terdapat pada Aplikasi Indihome Universal Utility.exe
 - Encoder Utility
 - Support windows x64 only
 
-~ (v1.0.0.1) Kamis 29 Agustus 2024 - First Release Indihome Universal Utility
-
-~ (v1.0.0.2) Senin 16 Desember 2024 - Perbaikan Bug API Windows
-
 #
 <b>Tutorial Penggunaan:</b>
 1. Download dan instal python3 (minimum python 3.5):
